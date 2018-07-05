@@ -4,9 +4,6 @@
   <artifactId>RestTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-    
-    
-    
 <dependency>
     <groupId>org.glassfish.jersey.media</groupId>
     <artifactId>jersey-media-moxy</artifactId>
