@@ -3,4 +3,12 @@
   <groupId>RestTest</groupId>
   <artifactId>RestTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-moxy -->
+<dependency>
+    <groupId>org.glassfish.jersey.media</groupId>
+    <artifactId>jersey-media-moxy</artifactId>
+    <version>2.27</version>
+</dependency>
+</dependencies>
 </project>
